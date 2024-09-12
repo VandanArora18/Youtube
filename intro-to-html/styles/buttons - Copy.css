@@ -1,0 +1,80 @@
+.subscribe-button {background-color:rgb(190, 48, 48);
+    color:white;
+    height:35px;
+    border:black;
+    width:105px;
+    border-radius:2px;
+cursor:pointer;
+margin-right:9px;
+box-shadow:3px 3px 3px black ;
+vertical-align: bottom;
+
+}
+.subscribe-button:hover{
+opacity:0.9;
+}
+.subscribe-button:active{
+    opacity:10;
+}
+
+
+
+
+.join-button{
+background-color:white;
+height:36px;
+box-shadow:3px 3px 3px black;
+width:65px;
+color:blue;
+cursor:pointer;
+border-color:blue;
+border-style: solid;
+border-width:1px;
+border-radius:2px;
+margin-right: 9px;
+transition:background-color .30s ;
+color:.30s
+}
+.join-button:hover{
+    background-color: blue;
+    color:white;
+    
+}
+.join-button:active{
+opacity:10;
+}
+
+
+.tweet-button{
+    pointer:cursor;
+    background-color:rgb(78, 163, 216);
+    height:36px;
+    width:77px;
+    color:white;
+    border-radius: 20px;
+     font-size:13px;
+     font-weight: bolder;
+border-style:solid;
+border-width: 1px;
+border-color:rgb(36, 144, 211);
+cursor:pointer;
+transition:box-shadow 0.15s;
+}
+.tweet-button:hover{
+    box-shadow:3px 3px 3px black;
+
+
+}
+
+
+
+
+.join-my-channel-button{
+    padding-top: 180px px;
+    padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+vertical-align: bottom;
+
+
+}
